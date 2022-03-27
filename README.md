@@ -1,4 +1,4 @@
-# WebApiPatch - Dotnet Core Web Api with Patch RFC 7396 support.
+# Dotnet Core Web Api with Patch RFC 7396 support.
 
 The HTTP PATCH request method applies partial modifications to a resource.
 
