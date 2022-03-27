@@ -1,0 +1,8 @@
+[Bb]in/
+[Oo]bj/
+.vs/
+*.user
+**/debug.log
+
+0000_reports
+0000_settings
